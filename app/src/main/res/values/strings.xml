@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OnDemandFlix</string>
+    <string name="cast">Elenco: %1$s</string>
+    <string name="simliar">Opções semelhantes</string>
+    <string name="title_activity_splash">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>
